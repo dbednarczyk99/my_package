@@ -1,0 +1,7 @@
+{
+  "name": "@d.bednarczyk/random-id-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "D.Bednarczyk"
+}
