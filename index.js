@@ -8,4 +8,4 @@ const randomID = (idLength) => {
     return id;
 }
 
-MediaSourceHandle.exports = randomID; 
+module.exports = randomID; 
